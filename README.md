@@ -1,3 +1,7 @@
+# Taniti Tourism Prototype
+
+A prototype of a website for the fictional island of Taniti. Part of as assignment from Western Governor's University.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
